@@ -5,4 +5,3 @@
   <source src="./assets/video/mnemonic.mp4" type="video/mp4">
 </video>
 </div>
-

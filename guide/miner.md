@@ -28,6 +28,8 @@
 <img src="./assets/img/Snipaste_2021-12-07_18-02-42.png" width="15%"/>
 </div>
 
+[video demo](./use_minerwithdraw.md)
+
 如果需要使用存储提供者钱包的余额，可以点击提现按钮，将其转出到owner钱包，提现操作不需要gas费，你可以点击输入框右边的按钮，全部提出余额。如果钱包的owner是多签钱包，您还需要选择签名人进行签名，并在多签钱包里确认交易。
 
 点击下一步，即可进入[消息处理](../guide/basic.md#消息处理)环节。
@@ -37,6 +39,8 @@
 <div style="text-align:center;">
 <img src="./assets/img/Snipaste_2021-12-07_18-03-10.png" width="15%"/>
 </div>
+
+[video demo](./use_minerchangedowner.md)
 
 Owner是存储提供者钱包的拥有者，拥有对该钱包的控制权，如果您当前钱包Owner是普通钱包，我们建议将其更改为[多签钱包](../guide/msig.md)，以提高账号安全性。将owner修改为多签地址后，后续无需变更owner，只需对多签地址签名人进行变更，即可完成对存储提供者钱包拥有者的变更。
 
@@ -50,6 +54,8 @@ Owner是存储提供者钱包的拥有者，拥有对该钱包的控制权，如
 <img src="./assets/img/Snipaste_2021-12-07_18-03-27.png" width="15%"/>
 </div>
 
+[video demo](./use_minerchangedworker.md)
+
 worker地址用于发送和支付存储提供者节点执行的日常操作。
 
 修改worker地址同样需要两次确认，在发起修改完成后，你需要等待节点进入修改worker状态，然后再次使用owner地址确认worker变更。与修改owner相同，无需手动创建确认消息，只需要在<待确认变更>里点击对应消息继续确认变更即可。
@@ -61,6 +67,8 @@ worker地址用于发送和支付存储提供者节点执行的日常操作。
 <div style="text-align:center;">
 <img src="./assets/img/Snipaste_2021-12-07_18-01-51.png" width="15%"/>
 </div>
+
+[video demo](./use_minerchangedcontrols.md)
 
 Control 地址用于向链提交WindowPoSts证明。WindowPoSt 是在 Filecoin 中验证存储的机制，存储提供者要求每 24 小时提交所有扇区的证明。这些证明作为消息提交给区块链，因此需要支付相应的费用。
 

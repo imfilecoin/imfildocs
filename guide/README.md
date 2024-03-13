@@ -25,19 +25,3 @@ ImFil包含热钱包和冷钱包两个软件。热钱包用于线上交易，冷
 [钱包管理](./off_walletsetting.md)
 
 [设置](./settings.md)
-
-[存储提供者-修改Controls](./use_minerchangedcontrols.md)
-
-[存储提供者-修改Owner](./use_minerchangedowner.md)
-
-[存储提供者-修改Worker](./use_minerchangedworker.md)
-
-[存储提供者-提现](./use_minerwithdraw.md)
-
-[多签钱包-创建](./use_msigcreate.md)
-
-[多签钱包-转账](./use_msigsend.md)
-
-[普通钱包转账](./use_send.md)
-
-[同助记词派生钱包](./video_create_mnemonic.md)

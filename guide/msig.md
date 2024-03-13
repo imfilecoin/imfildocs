@@ -24,6 +24,8 @@
 <img src="./assets/img/Snipaste_2021-12-07_17-56-08.png" width="15%"/>
 </div>
 
+[video demo](./use_msigcreate.md)
+
 - **多签别名**：将要创建的多签钱包的名称
 - **新增签名地址**：需要添加的多签成员地址，点击添加按钮加入签名地址列表
 - **最少签名人数**：进行交易时，最少需要多少个签名人进行签名，交易才能成功。
@@ -39,13 +41,13 @@
 
 确认所有消息无误后，即可进入[消息处理](../guide/basic.md#消息处理)的环节。
 
-[观看视频](use_createmsig.md)
-
 ## 转账
 
 <div style="text-align:center;">
 <img src="./assets/img/Snipaste_2021-12-07_16-15-20.png" width="15%"/>
 </div>
+
+[video demo](./use_msigsend.md)
 
 - **发起人**：使用多签钱包转账时
 - **接收地址**： 收款人地址
