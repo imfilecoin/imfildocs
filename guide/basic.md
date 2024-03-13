@@ -1,9 +1,11 @@
+[toc]
+
 # 基本使用
 
 ## 导入
 <div style="text-align:center;">
 <a data-fancybox title="xx" href="./assets/img/WechatIMG594.jpeg">
-<img src="./assets/img/WechatIMG594.jpeg" width="30%"/></a>
+<img src="./assets/img/WechatIMG594.jpeg" width="15%"/></a>
 </div>
 
 
@@ -20,7 +22,7 @@
 
 <div style="text-align:center;">
 <a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-49-25.png">
-<img src="./assets/img/Snipaste_2021-12-07_16-49-25.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_16-49-25.png" width="15%"/>
 </a>
 </div>
 
@@ -33,7 +35,7 @@
 
 <div style="text-align:center;">
 <a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_17-47-32.png">
-<img src="./assets/img/Snipaste_2021-12-07_17-47-32.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-47-32.png" width="15%"/>
 </a>
 </div>
 
@@ -44,10 +46,10 @@
 
 <div style="text-align:center;">
 <a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-56-08.png">
-<img src="./assets/img/Snipaste_2021-12-07_16-56-08.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_16-56-08.png" width="15%"/>
 </a>
 <a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-59-08.png">
-<img src="./assets/img/Snipaste_2021-12-07_16-59-08.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_16-59-08.png" width="15%"/>
 </a>
 </div>
 

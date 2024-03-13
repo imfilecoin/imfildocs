@@ -1,10 +1,10 @@
 # 导入钱包
 
 <div style="text-align:center;">
-<img src="./assets/img/offline/create_1.jpeg" width="22%"/>
-<img src="./assets/img/offline/import_1.jpeg" width="22%"/>
-<img src="./assets/img/offline/import_2.jpeg" width="22%"/>
-<img src="./assets/img/offline/import_3.jpeg" width="22%"/>
+<img src="./assets/img/offline/create_1.jpeg" width="11%"/>
+<img src="./assets/img/offline/import_1.jpeg" width="11%"/>
+<img src="./assets/img/offline/import_2.jpeg" width="11%"/>
+<img src="./assets/img/offline/import_3.jpeg" width="11%"/>
 </div>
 
 - 桌面上点击“imFIL冷钱包”，进入图1

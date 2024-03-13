@@ -7,7 +7,7 @@
 ## 多签钱包
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_17-21-42.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-21-42.png" width="15%"/>
 </div>
 
 - **交易列表（进行中）**：待同意的交易列表，点击可进入选择签名人页面进行签署
@@ -21,7 +21,7 @@
 ## 创建多签钱包
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_17-56-08.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-56-08.png" width="15%"/>
 </div>
 
 - **多签别名**：将要创建的多签钱包的名称
@@ -44,7 +44,7 @@
 ## 转账
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_16-15-20.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_16-15-20.png" width="15%"/>
 </div>
 
 - **发起人**：使用多签钱包转账时
@@ -62,7 +62,7 @@
 ## 添加签名人
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_17-52-37.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-52-37.png" width="15%"/>
 </div>
 
 点击多签钱包页面的变更按钮，可以选择添加、删除签名人或修改签名人数。
@@ -76,7 +76,7 @@
 ## 删除签名人
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_17-53-19.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-53-19.png" width="15%"/>
 </div>
 
 如果某个签名人密钥丢失，或者你需要将其踢出，可以选择删除签名人。
@@ -90,7 +90,7 @@
 ## 修改签名人数
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_17-54-28.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-54-28.png" width="15%"/>
 </div>
 
 修改签名人数是修改完成交易需要的最少签名人数。可以修改为(1到签名人总数)中间的任意整数。

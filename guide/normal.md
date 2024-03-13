@@ -5,7 +5,7 @@
 ## 普通钱包
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_17-14-12.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_17-14-12.png" width="15%"/>
 </div>
 
 - **①钱包名称**：钱包名称
@@ -17,7 +17,7 @@
 ## 转账
 
 <div style="text-align:center;">
-<img src="./assets/img/Snipaste_2021-12-07_16-10-33.png" width="30%"/>
+<img src="./assets/img/Snipaste_2021-12-07_16-10-33.png" width="15%"/>
 </div>
 
 - **接收地址**： 收款人地址
