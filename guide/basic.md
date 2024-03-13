@@ -2,12 +2,13 @@
 
 ## 导入
 <div style="text-align:center;">
-<a data-fancybox title="xx" href="/assets/img/WechatIMG594.jpeg">
+<a data-fancybox title="xx" href="./assets/img/WechatIMG594.jpeg">
 <img src="/assets/img/WechatIMG594.jpeg" width="30%"/></a>
 </div>
 
+
 - **钱包名称**：需要导入的钱包的名称，可选，默认为钱包地址前10
-位
+  位
 - **钱包地址**：需要导入的钱包地址
 - **清空**：清空钱包地址输入框
 - **粘贴**：粘贴剪贴板内容到钱包地址输入框
