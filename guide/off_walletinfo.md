@@ -1,9 +1,9 @@
 # 钱包详情
 
 <div style="text-align:center;">
-<img src="/assets/img/offline/walletinfo_1.jpeg" width="30%"/>
-<img src="/assets/img/offline/walletinfo_2.jpeg" width="30%"/>
-<img src="/assets/img/offline/walletinfo_3.jpeg" width="30%"/>
+<img src="./assets/img/offline/walletinfo_1.jpeg" width="30%"/>
+<img src="./assets/img/offline/walletinfo_2.jpeg" width="30%"/>
+<img src="./assets/img/offline/walletinfo_3.jpeg" width="30%"/>
 </div>
 
 - 图一标1，为钱包的备注名称，长按后可以修改备注名称

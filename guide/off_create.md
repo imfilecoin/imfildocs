@@ -1,10 +1,10 @@
 # 创建钱包
 
 <div style="text-align:center;">
-<img src="/assets/img/offline/create_1.jpeg" width="22%"/>
-<img src="/assets/img/offline/create_2.jpeg" width="22%"/>
-<img src="/assets/img/offline/create_3.jpeg" width="22%"/>
-<img src="/assets/img/offline/create_4.jpeg" width="22%"/>
+<img src="./assets/img/offline/create_1.jpeg" width="22%"/>
+<img src="./assets/img/offline/create_2.jpeg" width="22%"/>
+<img src="./assets/img/offline/create_3.jpeg" width="22%"/>
+<img src="./assets/img/offline/create_4.jpeg" width="22%"/>
 </div>
 
 - 桌面上点击“imFIL冷钱包”，进入图1

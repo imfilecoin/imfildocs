@@ -3,7 +3,7 @@
 ## 导入
 <div style="text-align:center;">
 <a data-fancybox title="xx" href="./assets/img/WechatIMG594.jpeg">
-<img src="/assets/img/WechatIMG594.jpeg" width="30%"/></a>
+<img src="./assets/img/WechatIMG594.jpeg" width="30%"/></a>
 </div>
 
 
@@ -19,8 +19,8 @@
 ## 收款
 
 <div style="text-align:center;">
-<a data-fancybox title="xx" href="/assets/img/Snipaste_2021-12-07_16-49-25.png">
-<img src="/assets/img/Snipaste_2021-12-07_16-49-25.png" width="30%"/>
+<a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-49-25.png">
+<img src="./assets/img/Snipaste_2021-12-07_16-49-25.png" width="30%"/>
 </a>
 </div>
 
@@ -32,8 +32,8 @@
 ## 钱包列表
 
 <div style="text-align:center;">
-<a data-fancybox title="xx" href="/assets/img/Snipaste_2021-12-07_17-47-32.png">
-<img src="/assets/img/Snipaste_2021-12-07_17-47-32.png" width="30%"/>
+<a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_17-47-32.png">
+<img src="./assets/img/Snipaste_2021-12-07_17-47-32.png" width="30%"/>
 </a>
 </div>
 
@@ -43,11 +43,11 @@
 ## 消息处理
 
 <div style="text-align:center;">
-<a data-fancybox title="xx" href="/assets/img/Snipaste_2021-12-07_16-56-08.png">
-<img src="/assets/img/Snipaste_2021-12-07_16-56-08.png" width="30%"/>
+<a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-56-08.png">
+<img src="./assets/img/Snipaste_2021-12-07_16-56-08.png" width="30%"/>
 </a>
-<a data-fancybox title="xx" href="/assets/img/Snipaste_2021-12-07_16-59-08.png">
-<img src="/assets/img/Snipaste_2021-12-07_16-59-08.png" width="30%"/>
+<a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-59-08.png">
+<img src="./assets/img/Snipaste_2021-12-07_16-59-08.png" width="30%"/>
 </a>
 </div>
 
@@ -80,8 +80,8 @@
 ## 交易记录
 
 <div style="text-align:center;">
-<a data-fancybox title="xx" href="/assets/img/Snipaste_2021-12-07_16-29-00.png">
-<img src="/assets/img/Snipaste_2021-12-07_16-29-00.png" width="60%"/>
+<a data-fancybox title="xx" href="./assets/img/Snipaste_2021-12-07_16-29-00.png">
+<img src="./assets/img/Snipaste_2021-12-07_16-29-00.png" width="60%"/>
 </a>
 </div>
 

@@ -1,11 +1,11 @@
 # 钱包管理
 
 <div style="text-align:center;">
-<img src="/assets/img/offline/walletmanger_1.jpeg" width="18%"/>
-<img src="/assets/img/offline/import_2.jpeg" width="18%"/>
-<img src="/assets/img/offline/import_3.jpeg" width="18%"/>
-<img src="/assets/img/offline/walletmanger_3.jpeg" width="18%"/>
-<img src="/assets/img/offline/walletmanger_2.jpeg" width="18%"/>
+<img src="./assets/img/offline/walletmanger_1.jpeg" width="18%"/>
+<img src="./assets/img/offline/import_2.jpeg" width="18%"/>
+<img src="./assets/img/offline/import_3.jpeg" width="18%"/>
+<img src="./assets/img/offline/walletmanger_3.jpeg" width="18%"/>
+<img src="./assets/img/offline/walletmanger_2.jpeg" width="18%"/>
 </div>
 
 - 图一，点击“从助记词恢复钱包”，图二，通过助记词导入钱包，参考[导入钱包](off_import.md)

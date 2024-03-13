@@ -1,10 +1,10 @@
 # 钱包列表
 
 <div style="text-align:center;">
-<img src="/assets/img/offline/walletlist_1.jpeg" width="22%"/>
-<img src="/assets/img/offline/walletlist_2.jpeg" width="22%"/>
-<img src="/assets/img/offline/walletlist_3.jpeg" width="22%"/>
-<img src="/assets/img/offline/walletlist_4.jpeg" width="22%"/>
+<img src="./assets/img/offline/walletlist_1.jpeg" width="22%"/>
+<img src="./assets/img/offline/walletlist_2.jpeg" width="22%"/>
+<img src="./assets/img/offline/walletlist_3.jpeg" width="22%"/>
+<img src="./assets/img/offline/walletlist_4.jpeg" width="22%"/>
 </div>
 
 - **删除钱包：** 图一，点击钱包卡片的“...”，弹出对话框（图二），选择“删除钱包”，弹出确认对话框（图三）输入“confirm”关键字后，才能删除钱包。**该功能建议不使用，一旦删除成功，仅能能通过用户自己记录的私钥或助记词进行恢复；一旦用户遗忘私钥和助记词将无法找回删除的钱包**
